@@ -44,4 +44,4 @@ This is a solution to the [React section 1 solo project](https://scrimba.com/lea
 
 ## Acknowledgments
 
-I am very grateful to smug & openwell for always making time out of their busy schedules to see to my coding challenges and providing me with extra motivation.
+I am very grateful to Smug & Openwell for always making time out of their busy schedules to see to my coding challenges and providing me with extra motivation.
